@@ -101,3 +101,15 @@ enableGitInfo = true
   # /!\ This is an experimental feature, might be removed or changed at any time
   # (Optional, experimental, default false) Enables service worker that caches visited pages and resources for offline use.
   BookServiceWorker = true
+
+[[params.versions]]
+  version = "master"
+  url = "https://goofy-johnson-a8bf32.netlify.app"
+
+[[params.versions]]
+  version = "v0.2"
+  url = "https://goofy-johnson-a8bf32.netlify.app"
+
+[[params.versions]]
+  version = "v0.3"
+  url = "https://goofy-johnson-a8bf32.netlify.app"
